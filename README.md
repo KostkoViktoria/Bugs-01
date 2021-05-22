@@ -1,1 +1,4 @@
-# Bugs-01
+# Syberry Academy - Bugs
+
+**1 Steps**
+
