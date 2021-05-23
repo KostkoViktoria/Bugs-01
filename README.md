@@ -22,7 +22,7 @@
 
 ## *3th Step* ##
 
-[MobileApp] - mobile app for buying the washing machines
+[MobileApp] - mobile app for buying the washing machines (Test APP)
 
 1) Click on file with name "Bug_report_Mobile_app_SA_Kostko_Vika.xlsx" which is located above file "Bug_report_TestDrive_SA_Kostko_Vika.xlsx"
 2) Click on link "View raw" or click on button "Download"
