@@ -1,4 +1,4 @@
-# Syberry Academy - Bug-report for four project
+# Syberry Academy - Bug reports a four project
 
 **Litecart || TestDrive || MobileApp || AmericanTaxi**
 
