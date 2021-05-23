@@ -1,4 +1,6 @@
-# Syberry Academy - Bug report for a four products
+# Syberry Academy - ![malware](https://user-images.githubusercontent.com/84619545/119272009-ba877100-bc0c-11eb-8db6-d537a7b489c4.png) Bug report for a four products
+
+## Dear user! ##
 
 This files includes bug-reports **[Litecart || TestDrive || MobileApp || AmericanTaxi]** created for a four products 
 
