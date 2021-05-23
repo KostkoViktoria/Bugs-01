@@ -1,4 +1,4 @@
-# Syberry Academy - Bug report for 4 projects
+# Syberry Academy - Bug report for a four products
 
 This files includes bug-reports **[Litecart || TestDrive || MobileApp || AmericanTaxi]** created for a four products 
 
